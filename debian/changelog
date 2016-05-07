@@ -1,0 +1,5 @@
+pelias-schema (3.1.0-ubuntu1~xenial1) xenial; urgency=medium
+
+  * Initial Pelias Schema package from https://github.com/pelias/schema/tree/807aab4b4
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Fri, 06 May 2016 20:21:27 -0700
