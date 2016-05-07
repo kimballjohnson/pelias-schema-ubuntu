@@ -1,3 +1,9 @@
+pelias-schema (3.1.0-ubuntu1~xenial4) xenial; urgency=medium
+
+  * Fixed Makefile bug with log directory.
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Sat, 07 May 2016 10:25:41 -0700
+
 pelias-schema (3.1.0-ubuntu1~xenial3) xenial; urgency=medium
 
   * Fixed Makefile bug with config file and executable scripts.
