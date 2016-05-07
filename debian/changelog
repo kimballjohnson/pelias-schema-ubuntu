@@ -1,3 +1,9 @@
+pelias-schema (3.1.0-ubuntu1~xenial2) xenial; urgency=medium
+
+  * Added config file and executable scripts in /etc and /usr/bin.
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Sat, 07 May 2016 10:13:06 -0700
+
 pelias-schema (3.1.0-ubuntu1~xenial1) xenial; urgency=medium
 
   * Initial Pelias Schema package from https://github.com/pelias/schema/tree/807aab4b4

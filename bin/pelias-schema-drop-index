@@ -1,0 +1,4 @@
+#!/bin/sh -e
+
+cd /usr/lib/nodejs/pelias-schema
+PELIAS_CONFIG=/etc/pelias-config-schema.json node scripts/drop_index.js
