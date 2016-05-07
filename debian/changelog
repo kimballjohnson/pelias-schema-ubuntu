@@ -1,3 +1,9 @@
+pelias-schema (3.1.0-ubuntu1~xenial3) xenial; urgency=medium
+
+  * Fixed Makefile bug with config file and executable scripts.
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Sat, 07 May 2016 10:20:56 -0700
+
 pelias-schema (3.1.0-ubuntu1~xenial2) xenial; urgency=medium
 
   * Added config file and executable scripts in /etc and /usr/bin.
