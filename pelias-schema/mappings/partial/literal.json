@@ -1,6 +1,0 @@
-{
-  "type": "string",
-  "index_analyzer": "keyword",
-  "search_analyzer": "keyword",
-  "store": "yes"
-}
